@@ -1,0 +1,15 @@
+{
+	"name": "silverstripe/concurrentediting",
+	"description": "Users editing the same page concurrently are notified",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe", "cms"],
+	"authors": [
+		{
+			"name": "Andreas Piening"
+		}
+	],
+	"require":
+	{
+		"silverstripe/framework": "~2.4"
+	}
+}
