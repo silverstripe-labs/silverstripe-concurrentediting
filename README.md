@@ -1,6 +1,10 @@
-####################################################
-Concurrent Editing Module
-####################################################
+#Concurrent Editing Module
+
+**NOTE: This module is set to be deprecated.**
+
+For > v3.1 SilverStripe support. Please see the editlock module  
+ 
+    https://github.com/sheadawson/silverstripe-editlock
 
 # Maintainer Contact
 Andreas Piening (Nickname: apiening)
