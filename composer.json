@@ -1,0 +1,16 @@
+{
+	"name": "silverstripe-labs/concurrentediting",
+	"description": "Notifies content editors in case they are editing a page concurrently.",
+	"type": "silverstripe-module",
+	"keywords": ["silverstripe-labs", "concurrentediting", "security"],
+	"authors": [
+	{
+		"name": "Andreas Piening",
+		"email": "andreas@silverstripe.com"
+	}
+	],
+	"require":
+	{
+		"silverstripe/framework": "2.4.*"
+	}
+}
